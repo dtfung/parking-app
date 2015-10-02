@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2402BD0A940437CC9C949F9F975F95882B474CB8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A57EB5344150F9872D0C6E605BC16B0BA3349F8E" : 0,
+    "2402BD0A940437CC9C949F9F975F95882B474CB8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "50CDC0A6-3FDA-4C7D-AFE9-0F7A1821C12E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A57EB5344150F9872D0C6E605BC16B0BA3349F8E" : "",
+    "2402BD0A940437CC9C949F9F975F95882B474CB8" : "ParkingApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Parking",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Parking.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/adityanarayan\/Sunny.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2402BD0A940437CC9C949F9F975F95882B474CB8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dtfung\/funProject100.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A57EB5344150F9872D0C6E605BC16B0BA3349F8E"
+    }
+  ]
+}
